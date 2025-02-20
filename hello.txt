@@ -1,3 +1,4 @@
 code 1
 code 2
 some extra code for testing merge conflict
+added some other code in the feature-c branch
